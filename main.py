@@ -7,17 +7,16 @@ def main():
     print()
     testPropertySetters()
     print()
-
-    # testPropertySettersWithValidation()
-    # print()
-    # testEncapsulation()
-    # print()
+    testPropertySettersWithValidation()
+    print()
+    testEncapsulation()
+    print()
     # testIsDouble()
     # print()
     # testFlip()
     # print()
     # testEquals()
 
-
-main()
+if __name__ == '__main__':
+    main()
 
